@@ -1,0 +1,6 @@
+# app-ads.txt for Chicken Cop - https://iabtechlab.com/ads-txt/
+# Lists who may sell ads shown in the app. The developer website on BOTH store listings must be this site's root,
+# so AdMob can find this file at https://<domain>/app-ads.txt.
+
+# Google AdMob (same AdMob account as Quizia, publisher pub-2020688030375650)
+google.com, pub-2020688030375650, DIRECT, f08c47fec0942fa0
